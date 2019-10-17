@@ -1,1 +1,2 @@
-# MachineLearningPototype
+# Machine Learning CheatSheet 
+Simple demonstration
